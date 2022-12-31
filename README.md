@@ -1,5 +1,5 @@
 # Readme
-Some projects I have worked on through my data science/ machine learning career that I am able to show publicly can be seen above. A summary of these, as well as some of the ones in which I cannot share the code for, are listed below.
+Some projects I have worked on through my data science/ machine learning career that I am able to show publicly can be seen above. A summary of these, as well as some of the ones in which I cannot share the code for, are listed below. These projects were completed between 2017- Present.
 
 Skill | Domain | Project Name | Tools Used 
 --- | --- | --- | ---

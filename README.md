@@ -7,7 +7,7 @@ Data Science |	Agricutlure	| Crop Suitability Model |	Google Earth Engine, Pytho
 Data Science |	Agricutlure | Farm Survey, Geospatial Dashboard |	Google Earth Engine, Python
 Data Science/ ML |	Retail | Fuzzy Matching Model |	Python
 Data Science/ ML |	Federal Government | USCIS Tech Challenge |	Python
-Data Science/ ML | Climate | NDVI Prediction |	Google Earth Engine, Python
+Data Science/ ML | Climate | [NDVI Prediction](https://github.com/amgadellaboudy/Portfolio/blob/master/Earthshot/Beaver_Dam_NDVI_model-3.ipynb)  |	Google Earth Engine, Python
 Data Science/ ML/ CV | Climate | Beaver Dam Recognition |	Google Earth Engine, Python
 Data Science | Automotive | Dealership/ Product Data Visualization | ArcGIS
 Data Science/ ML | State/ Local Police Enforcement | Crime Analysis | Python

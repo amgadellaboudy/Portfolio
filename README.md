@@ -13,3 +13,4 @@ Data Science | Automotive | Dealership/ Product Data Visualization | ArcGIS
 Data Science/ ML | State/ Local Police Enforcement | [Crime Analysis](https://github.com/amgadellaboudy/Portfolio/tree/master/Forcemetrics) | Python
 Data Science/ ML | Retail | [LTV Analysis & Prediction](https://github.com/amgadellaboudy/Portfolio/blob/master/Ocurate%20Analysis.ipynb) | Python
 Data Science/ ML/ NLP| Entertainment| Review Sentiment Analsyis | Python
+ML/ Data Science | Climate | [Precipitation Prediction](https://github.com/amgadellaboudy/Portfolio/blob/master/Precipitation_Prediction.ipynb) | Python
